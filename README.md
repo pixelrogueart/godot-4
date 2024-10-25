@@ -1,6 +1,6 @@
 # Godot 4
 
-Fique a vontade para usar todos os códigos deste repositório. Espero que ajude, se tiverem alguma dúvida, podem me chamar em qualquer rede social!
+Fique à vontade para usar todos os códigos deste repositório. Espero que ajude! Se tiver alguma dúvida, pode me chamar em qualquer rede social.
 
 ## 🛠️ Versão
 
@@ -9,7 +9,7 @@ Fique a vontade para usar todos os códigos deste repositório. Espero que ajude
 
 ## 📄 Licença
 
-Este repositório está sob a licença MIT. Sinta-se à vontade para usar o código em seus próprios projetos!
+Pode usar à vontade os códigos em seus projetos!
 
 ## ✉️ Contato
 
@@ -18,4 +18,4 @@ Se tiver alguma dúvida, entre em contato:
 - **Email:** pixelrogueart@gmail.com
 - **Twitter:** [@pixelrogueart](https://twitter.com/pixelrogueart)
 - **Discord:** [Pixelrogueart Server](https://discord.gg/KsKZZs5S6k)
-- **Instagram:** [@pixelrogueart](instagram.com/pixelrogueart/)
+- **Instagram:** [@pixelrogueart](https://instagram.com/pixelrogueart/)
