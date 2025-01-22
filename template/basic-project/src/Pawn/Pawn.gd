@@ -23,8 +23,6 @@ func _process(delta: float) -> void:
 func _physics_process(delta: float) -> void:
 	state_manager.physics_process(delta)
 
-func get_input_strength():
-	var run = Input.get_action_strength("run")
-	var aim = Input.get_action_strength("right_mouse")
+func get_input_strength() -> Vector2:
 	var input_dir:Vector2 = Vector2(Input.get_action_strength("move_right") - Input.get_action_strength("move_left"),0).normalized()
-	return {"dir":input_dir, "run":run, "aim": aim}
+	return input_dir
